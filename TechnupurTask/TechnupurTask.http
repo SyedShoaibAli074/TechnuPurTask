@@ -1,0 +1,6 @@
+@TechnupurTask_HostAddress = http://localhost:5011
+
+GET {{TechnupurTask_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
